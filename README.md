@@ -1,7 +1,7 @@
 # FIC Web Exemplo
  Exemplo
-*TESTE*
-  **ITÁLICO**
+**TESTE**
+  *ITÁLICO*
 
  *Cachorro
  *Cadela
@@ -13,3 +13,16 @@
  ---------|---------
  Dados A  | Dados B
  Cebola   | Tomate
+
+* Number 1
+* Number 2
+  * Letter A
+    * Icon 1
+    * Treta
+    * Ugly people
+  * Letter B
+    * The Beatos
+  * Letra C
+    * Cebola
+    * Tomate
+* Fim
