@@ -33,4 +33,4 @@
 2. Refrigerante
 3. Água Mineral
 
-![Gato polvo do GitHub](https://www.thetoychronicle.com/wp-content/uploads/2014/10/GITHUB-OCTOCAT-dead-zebra-Andrew-Bell-side.jpg)
+![Gato polvo do GitHub](https://preview.redd.it/shd671jjhj081.png?width=600&format=png&auto=webp&s=ceb7a8e996d45dbaa76d2b279f6ecd76648eae00)
