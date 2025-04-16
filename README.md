@@ -3,9 +3,9 @@
 **TESTE**
   *ITÁLICO*
 
- *Cachorro
- *Cadela
-  *Cadela
+* Cachorro
+* Cadela
+  * Filhote
 
  ## título 2
 
@@ -18,6 +18,8 @@
 * Number 2
   * Letter A
     * Icon 1
+      * Type 3
+        * Churrasco
     * Treta
     * Ugly people
   * Letter B
@@ -26,3 +28,7 @@
     * Cebola
     * Tomate
 * Fim
+
+1. Bolo
+2. Refrigerante
+3. Água Mineral
