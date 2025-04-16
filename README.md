@@ -32,3 +32,5 @@
 1. Bolo
 2. Refrigerante
 3. Água Mineral
+
+![Gato polvo do GitHub](https://www.thetoychronicle.com/wp-content/uploads/2014/10/GITHUB-OCTOCAT-dead-zebra-Andrew-Bell-side.jpg)
